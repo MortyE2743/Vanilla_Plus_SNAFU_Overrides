@@ -13,7 +13,7 @@ class CfgPatches
 			"ACR_CFG",
 			"HK416_CFG",
 			"IA2_CFG",
-			"MK18_CFG"
+			"MK18_CFG",
 			"SCAR_CFG",
 			"SG550_CFG",
 			"SG552_CFG",
